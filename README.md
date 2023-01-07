@@ -1,4 +1,4 @@
-# KD9VVBLogger_ADI
+# KD9VVB Logger ADI
 Rework of KD9VVB Logger to export as ADI files
 
 This rework functions in a similar way to the original KD9VVB Logger, however this time it utilizes the ADIF format.
