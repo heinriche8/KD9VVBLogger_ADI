@@ -1,5 +1,5 @@
 # KD9VVB Logger ADI
-Rework of KD9VVB Logger to export as ADI files
+Rework of KD9VVB Logger to export as ADI files, see https://github.com/heinriche8/KD9VVBLogger for the original
 
 This rework functions in a similar way to the original KD9VVB Logger, however this time it utilizes the ADIF format.
 There is some basic error checking as well, and support for appending to existing logs has been added.
